@@ -2,7 +2,7 @@
 
 
 
-![alt tag](http://i.imgur.com/bgiiQ4T.png)
+
 
 Android-Drawing-Application
 ============
